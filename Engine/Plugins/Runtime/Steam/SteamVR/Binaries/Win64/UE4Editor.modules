@@ -1,0 +1,9 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "6e525890-175d-47ae-ab42-78a17f5de9db",
+	"Modules" : 
+	{
+		"SteamVR" : "UE4Editor-SteamVR.dll",
+		"SteamVRController" : "UE4Editor-SteamVRController.dll"
+	}
+}
